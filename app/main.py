@@ -7,7 +7,7 @@ from app import routers
 
 app = FastAPI(
     title="ss-sample-python-api",
-    description="Sample Python API.",
+    description="Sample Python API test.",
     version="v1",
 )
 
